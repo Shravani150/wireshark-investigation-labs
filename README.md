@@ -47,11 +47,20 @@ Wireshark-Investigation-Labs/
 
 ---
 
-## Completed Labs
+## Investigation Roadmap
 
-| Lab | Investigation | Status |
-|------|---------------|--------|
-| Lab 01 | Website Connection Investigation | ✅ Completed |
+| Lab    | Investigation                              | Status |
+|--------|--------------------------------------------|--------|
+| Lab 01 | Website Connection Investigation           | ✅ Completed |
+| Lab 02 | Follow a TCP Conversation                  | ✅ Completed |
+| Lab 03 | HTTP vs HTTPS Investigation                | 🟡 Planned |
+| Lab 04 | SSH Traffic Investigation                  | 🟡 Planned |
+| Lab 05 | ICMP & Ping Analysis                       | 🟡 Planned |
+| Lab 06 | DNS Resolution Deep Dive                   | 🟡 Planned |
+| Lab 07 | TCP Retransmissions & Connection Issues    | 🟡 Planned |
+| Lab 08 | QUIC vs TCP Investigation                  | 🟡 Planned |
+| Lab 09 | Network Performance Troubleshooting        | 🟡 Planned |
+| Lab 10 | Mystery PCAP – Final Investigation         | 🟡 Planned |
 
 ---
 
