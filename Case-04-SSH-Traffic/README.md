@@ -8,7 +8,7 @@ Investigate an SSH login session and determine what information is visible in a 
 
 ## Evidence
 
-* `ssh-bandit-login.pcapng`
+* `Case-04-ssh-bandit-login.pcapng`
 
 Traffic generated using:
 
