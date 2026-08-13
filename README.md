@@ -53,10 +53,10 @@ Wireshark-Investigation-Labs/
 |--------|--------------------------------------------|--------|
 | Lab 01 | Website Connection Investigation           | ✅ Completed |
 | Lab 02 | Follow a TCP Conversation                  | ✅ Completed |
-| Lab 03 | HTTP vs HTTPS Investigation                | 🟡 Planned |
-| Lab 04 | SSH Traffic Investigation                  | 🟡 Planned |
-| Lab 05 | ICMP & Ping Analysis                       | 🟡 Planned |
-| Lab 06 | DNS Resolution Deep Dive                   | 🟡 Planned |
+| Lab 03 | HTTP vs HTTPS Investigation                | ✅ Completed |
+| Lab 04 | SSH Traffic Investigation                  | ✅ Completed |
+| Lab 05 | ICMP & Ping Analysis                       | ✅ Completed |
+| Lab 06 | DNS Resolution Deep Dive                   | ✅ Completed |
 | Lab 07 | TCP Retransmissions & Connection Issues    | 🟡 Planned |
 | Lab 08 | QUIC vs TCP Investigation                  | 🟡 Planned |
 | Lab 09 | Network Performance Troubleshooting        | 🟡 Planned |
